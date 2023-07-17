@@ -1,5 +1,9 @@
 ### Wine quality Prediction based on physicochemical properties
 
+This is the course project from my Master's program Data Science course. 
+
+Project Proposal:
+
 Context and Dataset
 This project is based on Wine Quality Data Set(https://archive.ics.uci.edu/ml/datasets/wine+quality)  from UCI Machine Learning Repository. 2 data set are provided which relate to red and white variants of the Portuguese "Vinho Verde" wine. 
 The data set includes 4898 instances and 12 attributes. The attributes are the results based on  physicochemical tests. Output variable is the rating/graded quality based on sensory data.
